@@ -45,7 +45,8 @@ $ cat current_mission.txt
 ```
 ├── Active Directory — движение внутри домена, повышение прав
 ├── Pass-the-Hash и латеральное перемещение
-├── Burp Suite глубже — Intruder, Repeater по-взрослому
+├── Burp Suite — Intruder: перебор параметров, фаззинг форм
+├── Burp Suite — Repeater: ручная докрутка запросов, обход фильтров
 ├── ffuf / dirsearch — фаззинг директорий
 └── Python — свои небольшие инструменты под рутину
 ```
